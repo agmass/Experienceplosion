@@ -34,7 +34,8 @@ Mod should be mostly compatible with bedrock players! Please report any issues.
 ## Recipes
 
 ![image](https://github.com/user-attachments/assets/369d5e7e-6461-465b-a8bc-b00621eda0db)
-![image](https://github.com/user-attachments/assets/cc42cf6e-8ae4-434e-ac72-2c972ecc6802)
+![image](https://github.com/user-attachments/assets/7ea3a76c-6f42-48cb-8dc0-0962fcc22756)
+
 
 
 <img alt="fabric-api" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/fabric-api_vector.svg">
