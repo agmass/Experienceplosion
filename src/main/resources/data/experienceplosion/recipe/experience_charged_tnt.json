@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " x ",
+    "xyx",
+    " x "
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:book"
+    },
+    "y": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "id": "experienceplosion:experience_charged_tnt"
+  }
+}

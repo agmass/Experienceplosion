@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "experienceplosion:block/tnt_bottom",
+    "side": "experienceplosion:block/tnt_side",
+    "top": "experienceplosion:block/tnt_top"
+  }
+}
