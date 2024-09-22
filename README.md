@@ -32,9 +32,8 @@ Makes the affected player explode when gaining experience!
 Mod should be mostly compatible with bedrock players! Please report any issues.
 
 ## Recipes
-
-![image](https://github.com/user-attachments/assets/369d5e7e-6461-465b-a8bc-b00621eda0db)
 ![image](https://github.com/user-attachments/assets/7ea3a76c-6f42-48cb-8dc0-0962fcc22756)
+![image](https://github.com/user-attachments/assets/91fd728b-bff6-4208-8f96-7fd3ade8c03c)
 
 
 
